@@ -17,8 +17,7 @@
 #ifndef __LINUX_MSM_AUDIO_H
 #define __LINUX_MSM_AUDIO_H
 
-#include <linux/types.h>
-#include <linux/ioctl.h>
+#include <linux/ion.h>
 
 
 #define AUDIO_IOCTL_MAGIC 'a'
